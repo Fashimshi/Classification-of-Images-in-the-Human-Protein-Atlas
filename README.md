@@ -10,7 +10,7 @@ In conclusion, this GitHub repository presents a neural network architecture for
 
 
 
-###Getting Datasets
+### Getting Datasets
 The dataset used in this project is the Human Protein Atlas Image Classification challenge dataset from Kaggle. In order to use this dataset, you need to have a Kaggle account and install the Kaggle API. You can do this by running the following commands:
 
 
